@@ -18,7 +18,7 @@ TIME_LEN = 16
 PRE_LEN = 4
 HIDDEN_DIM = 64
 WEIGHTED=False
-EPOCH=100
+EPOCH=50
 
 layer4_adj_nonweighted_filename='data/in/adj_layer4.csv'
 layer4_adj_weighted_filename='data/in_weighted/adj_layer4_weighted.csv'
